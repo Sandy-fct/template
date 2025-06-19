@@ -14556,7 +14556,7 @@
         "is_frame_bg": false,
         "is_collage": true,
         "image_count": 3,
-        "image_config": "[   {     \"x1\": 6,     \"x2\": 91,     \"y1\": 7,     \"y2\": 56   },   {     \"x1\": 7,     \"x2\": 44,     \"y1\": 65,     \"y2\": 107   },   {     \"x1\": 52,     \"x2\": 87,     \"y1\": 73,     \"y2\": 107   } ]",
+        "image_config": "[   {     \"x1\": 12,     \"x2\": 81,     \"y1\": 13,     \"y2\": 47   },   {     \"x1\": 12,     \"x2\": 43,     \"y1\": 62,     \"y2\": 88   },   {     \"x1\": 54,     \"x2\": 85,     \"y1\": 63,     \"y2\": 89   } ]",
         "template_type": 3,
         "is_featured": false,
         "image_url": "https://picshiner-cdn.adoreapps.com/templates/baby/bg/18-12-23-3_65813c13874dd.png",
