@@ -14522,7 +14522,7 @@
         "is_frame_bg": false,
         "is_collage": true,
         "image_count": 4,
-        "image_config": "[   {     \"x1\": 14,     \"x2\": 82,     \"y1\": 6,     \"y2\": 67   },   {     \"x1\": 15,     \"x2\": 38,     \"y1\": 70,     \"y2\": 95   },   {     \"x1\": 37,     \"x2\": 59,     \"y1\": 70,     \"y2\": 95   },   {     \"x1\": 59,     \"x2\": 83,     \"y1\": 70,     \"y2\": 95   } ]",
+        "image_config": "[   {     \"x1\": 14,     \"x2\": 82,     \"y1\": 6,     \"y2\": 74   },   {     \"x1\": 15,     \"x2\": 38,     \"y1\": 78,     \"y2\": 106   },   {     \"x1\": 37,     \"x2\": 59,     \"y1\": 78,     \"y2\": 106   },   {     \"x1\": 59,     \"x2\": 83,     \"y1\": 78,     \"y2\": 106   } ]",
         "template_type": 3,
         "is_featured": false,
         "image_url": "https://picshiner-cdn.adoreapps.com/templates/baby/bg/18-12-23-5-FRAME_65813caf08939.png",
