@@ -23294,7 +23294,7 @@
         "is_frame_bg": false,
         "is_collage": true,
         "image_count": 2,
-        "image_config": "[{\"x1\": 16, \"x2\": 75, \"y1\": 15, \"y2\": 58}, {\"x1\": 32, \"x2\": 83, \"y1\": 72, \"y2\": 106}]",
+        "image_config": "[{\"x1\": 16, \"x2\": 75, \"y1\": 41, \"y2\": 41}, {\"x1\": 32, \"x2\": 83, \"y1\": 53, \"y2\": 49}]",
         "template_type": 3,
         "is_featured": false,
         "image_url": "https://picshiner-cdn.adoreapps.com/templates/baby/bg/10-10-23-26-FRAME_65278add22061.png",
