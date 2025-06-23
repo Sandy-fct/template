@@ -18551,7 +18551,7 @@
         "is_frame_bg": false,
         "is_collage": true,
         "image_count": 3,
-        "image_config": "[{\"x1\": 5, \"x2\": 55, \"y1\": 63, \"y2\": 112}, {\"x1\": 37, \"x2\": 86, \"y1\": 40, \"y2\": 82}, {\"x1\": 11, \"x2\": 60, \"y1\": 8, \"y2\": 45}]",
+        "image_config": "[{\"x1\": 15, \"x2\": 53, \"y1\": 10, \"y2\": 45}, {\"x1\": 80, \"x2\": 41, \"y1\": 42, \"y2\": 80}, {\"x1\": 25, \"x2\": 34, \"y1\": 86, \"y2\": 89}]",
         "template_type": 3,
         "is_featured": false,
         "image_url": "https://picshiner-cdn.adoreapps.com/templates/baby/bg/08-11-2023-12_654cd36051e35.png",
