@@ -18721,7 +18721,7 @@
         "is_frame_bg": false,
         "is_collage": true,
         "image_count": 2,
-        "image_config": "[{\"x1\": 26, \"x2\": 64, \"y1\": 2, \"y2\": 51}, {\"x1\": 22, \"x2\": 70, \"y1\": 51, \"y2\": 110}]",
+        "image_config": "[{\"x1\": 26, \"x2\": 63, \"y1\": 2, \"y2\": 53}, {\"x1\": 22, \"x2\": 72, \"y1\": 51, \"y2\": 110}]",
         "template_type": 3,
         "is_featured": false,
         "image_url": "https://picshiner-cdn.adoreapps.com/templates/baby/bg/08-11-2023-2_654cce84ca9df.png",
