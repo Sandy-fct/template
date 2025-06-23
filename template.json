@@ -8174,7 +8174,7 @@
         "is_frame_bg": false,
         "is_collage": true,
         "image_count": 2,
-        "image_config": "[  {     \"x1\": 4,     \"x2\": 51,     \"y1\": 12,     \"y2\": 57   },  {     \"x1\": 35,     \"x2\": 84,     \"y1\": 64,     \"y2\": 112   }   ]",
+        "image_config": "[  {     \"x1\": 4,     \"x2\": 51,     \"y1\": 12,     \"y2\": 57   },  {     \"x1\": 35,     \"x2\": 84,     \"y1\": 64,     \"y2\": 110   }   ]",
         "template_type": 3,
         "is_featured": false,
         "image_url": "https://picshiner-cdn.adoreapps.com/templates/cakes/bg/16-10-23-2-FRAME_6535f6d882d79.png",
