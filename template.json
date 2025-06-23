@@ -18449,7 +18449,7 @@
         "is_frame_bg": false,
         "is_collage": true,
         "image_count": 2,
-        "image_config": "[{\"x1\": 0, \"x2\": 33, \"y1\": 67, \"y2\": 100}, {\"x1\": 33, \"x2\": 67, \"y1\": 67, \"y2\": 100}]",
+        "image_config": "[{\"x1\": 30, \"x2\": 69, \"y1\": 48, \"y2\": 48}, {\"x1\": 23, \"x2\": 72, \"y1\": 59, \"y2\": 103}]",
         "template_type": 3,
         "is_featured": false,
         "image_url": "https://picshiner-cdn.adoreapps.com/templates/baby/bg/08-11-2023-19_654cd77ecdcaf.png",
